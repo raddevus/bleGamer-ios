@@ -440,6 +440,7 @@
 				DEVELOPMENT_TEAM = 2SRF5TLB8K;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = bleGamer/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Used to communicate with ESP32 GameTower";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -468,6 +469,7 @@
 				DEVELOPMENT_TEAM = 2SRF5TLB8K;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = bleGamer/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Used to communicate with ESP32 GameTower";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
