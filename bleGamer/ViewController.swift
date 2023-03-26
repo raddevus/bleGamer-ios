@@ -23,7 +23,6 @@ class ViewController: UIViewController , CBCentralManagerDelegate, CBPeripheralD
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        super.viewDidLoad()
         // viewDidLoad() runs BEFORE CentralManager initialization
         //Initialize CoreBluetooth Central Manager
         self.centralManager = CBCentralManager(delegate: self, queue: DispatchQueue.main)
